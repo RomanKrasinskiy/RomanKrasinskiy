@@ -89,7 +89,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png](https://media.vlpt.us/images/ingyocode/post/a94b5d4e-86f7-4d15-98b3-9023e04d2242/nodejs%20icon.jpg?w=40"
+      src="[https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png](https://media.vlpt.us/images/ingyocode/post/a94b5d4e-86f7-4d15-98b3-9023e04d2242/nodejs%20icon.jpg?w=40](https://media.vlpt.us/images/ingyocode/post/a94b5d4e-86f7-4d15-98b3-9023e04d2242/nodejs%20icon.jpg?w=40)"
       alt="nodejs"
       width="40"
       height="40"
