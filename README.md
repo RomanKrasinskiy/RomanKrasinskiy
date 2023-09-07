@@ -29,11 +29,10 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://async.hk/wp-content/uploads/2019/09/expressjs-365x365.jpg"
       alt="express"
       width="40"
       height="40"
-      style="background-color: rgba(255, 255, 255, .9); border-radius: 1px;"
     />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
