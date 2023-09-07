@@ -13,11 +13,10 @@
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      src="https://d33wubrfki0l68.cloudfront.net/377d727c8d878832f20e08939889a58bdff0b3f2/63787/img/babel.svg"
       alt="babel"
       width="40"
       height="40"
-      style="background-color: rgba(238, 218, 124, 1); border-radius: 10px;"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
