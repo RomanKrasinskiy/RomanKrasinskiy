@@ -29,7 +29,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://async.hk/wp-content/uploads/2019/09/expressjs-365x365.jpg"
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
       alt="express"
       width="40"
       height="40"
