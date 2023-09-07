@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1 align="center">Привет 👋, меня зовут Роман!</h1>
