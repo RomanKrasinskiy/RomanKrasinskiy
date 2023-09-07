@@ -35,7 +35,6 @@
       width="40"
       height="40"
       style="background-color: rgba(255, 255, 255, .9); border-radius: 1px;"
-
     />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -128,7 +127,6 @@
       alt="webpack"
       width="40"
       height="40"
-      
     />
   </a>
 </p>
