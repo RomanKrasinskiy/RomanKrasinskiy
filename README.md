@@ -1,9 +1,9 @@
 
 <h1 align="center">Привет 👋, меня зовут Роман!</h1>
-<h3 align="center">
-  У меня есть опыт работы во фронтенде, специализируюсь на React, также знаю
-  основы бэкенда на Node.js и Express.js, работал с MongoDB, настраивал Nginx.
-</h3>
+
+### :man_technologist: Обо мне:
+У меня есть опыт работы во фронтенде, специализируюсь на React, также знаю
+основы бэкенда на Node.js и Express.js, работал с MongoDB, настраивал Nginx.
 
 ---
 
@@ -38,6 +38,19 @@
 </div>
 
 ---
+
+### 🤝 Мои контакты:
+<div>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" title="vk" alt="vk" width="40" height="40"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" title="whatsapp" alt="whatsapp" width="40" height="40"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Viber.svg" title="viber" alt="viber" width="40" height="40"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="gmail" alt="gmail" width="40" height="40"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" title="mailru" alt="mailru" width="40" height="40"/>
+</div>
+
+---
+
 ### ⚙️ Stats:
 
 <table>
