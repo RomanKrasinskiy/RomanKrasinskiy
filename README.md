@@ -41,13 +41,30 @@
 
 ### 🤝 Мои контакты:
 <div>
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" title="vk" alt="vk" width="40" height="40"/>
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" title="whatsapp" alt="whatsapp" width="40" height="40"/>
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Viber.svg" title="viber" alt="viber" width="40" height="40"/>
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="gmail" alt="gmail" width="40" height="40"/>
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" title="mailru" alt="mailru" width="40" height="40"/>
+  <a href="https://t.me/r_krasinski" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
+  </a>
+  <a href="https://vk.com/r.krasinski" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" title="vk" alt="vk" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/qr/HKRREEU3K6UHD1" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" title="whatsapp" alt="whatsapp" width="40" height="40"/>
+  </a>
+  <a href="https://viber.click/79788657030" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Viber.svg" title="viber" alt="viber" width="40" height="40"/>
+  </a>
 </div>
+<a href="https://krasinskiiroma9797@gmail.com" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Перейти на gmail.com" alt="gmail" width="25" height="25"/>
+    krasinskiiroma9797@gmail.com
+</a>  
+<br>
+<a href="https://krasinskii_roma@mail.ru" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" title="Перейти на mail.ru" alt="mailru" width="25" height="25"/>
+    krasinskii_roma@mail.ru
+</a>  
+<br>
+
 
 ---
 
