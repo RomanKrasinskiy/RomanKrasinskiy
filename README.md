@@ -53,10 +53,10 @@
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Viber.svg" title="viber" alt="viber" width="40" height="40"/>
   </a>
   <a href="mailto:krasinskiiroma9797@gmail.com" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="krasinskiiroma9797@gmail.com" alt="gmail" width="25" height="25"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="krasinskiiroma9797@gmail.com" alt="gmail" width="40" height="40"/>
   </a>  
   <a href="mailto:krasinskii_roma@mail.ru" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" title="krasinskii_roma@mail.ru" alt="mailru" width="25" height="25"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Mail_ru.svg" title="krasinskii_roma@mail.ru" alt="mailru" width="40" height="40"/>
   </a> 
 </div>
  
